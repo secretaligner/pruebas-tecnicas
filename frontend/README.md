@@ -34,7 +34,7 @@ La lista de tareas es:
          - Guardar > guardara en formulario enviado al backend los datos del formulario, no es necesario dicha funcionalidad
          - Cancelar > cerrar el model, pero no borra los campos rellenos
          - Limpiar > borra todas las entradas del formulario
-3. Al pulsar sobre un paciente de la lista se abrirá en una modal la ficha del paciente según muestra el [Anexo-Ficha Paciente](Anexo-Ficha Paciente.pdf). 
+3. Al pulsar sobre un paciente de la lista se abrirá en una modal la ficha del paciente según muestra el [Anexo-Ficha Paciente](https://github.com/secretaligner/pruebas-tecnicas/blob/main/frontend/Anexo-Ficha%20Paciente.pdf). 
 Dicha información se debe descargar en un PDF. Los dientes que no se mueven, aparecen en la ficha marcados con un círculo rojo
 
 
