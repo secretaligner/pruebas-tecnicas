@@ -10,7 +10,7 @@ La entrega final será presentada como un repositorio público de GitHub y se pr
 Añadir en el README del proyecto el tiempo estimado dedicado a cada tarea (Max 12h.)
 
 La lista de tareas es:
-1. Crear la vista de Listado de Pacientes
+1. Crear la vista de Listado de Pacientes, aplicando la [plantilla](https://github.com/secretaligner/pruebas-tecnicas/blob/main/frontend/vista_pacientes.pdf)
     - La lista se debe poner descargarse en un csv
     - Tendrá dos modos de visionado, en lista o en tarjetas
     - Opción de elementos por página, poder elegir cuantos elementos se muestran por pagina
